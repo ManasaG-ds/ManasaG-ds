@@ -36,7 +36,7 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/manasagangadhara)  
+- [LinkedIn](https://www.linkedin.com/in/manasagangadhara)  
 - [Email](mailto:manasagangadhara.ds@gmail.com)  
 
 ---
