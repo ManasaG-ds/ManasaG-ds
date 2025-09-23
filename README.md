@@ -22,26 +22,22 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 ## 📌 Highlighted Projects
 🌟 Here are some of my academic & portfolio projects:  
 
-- **[LLM-Enhanced Chatbot for Genomic Consent](https://github.com/your-repo-link)**  
-  NLP chatbot to improve understanding of research consent forms using MiniLM embeddings, cosine similarity & contextual query expansion.  
-
+- **[Music Subscriptions App on AWS](https://github.com/your-repo-link)**  
+  Built a scalable web app on AWS to manage music subscriptions, leveraging cloud services for storage, deployment, and reliability.
+    Demonstrated end-to-end skills in cloud architecture, backend integration, and DevOps practices.
+ 
 - **[K-Medoid Clustering with MapReduce](https://github.com/your-repo-link)**  
   Implemented PAM algorithm in Hadoop streaming (mapper & reducer in Python), handling large datasets line-by-line.  
 
 - **[Taxi Trips Analysis with MapReduce](https://github.com/your-repo-link)**  
   Built multi-stage Hadoop pipeline (join, count, sort) to analyze trips per taxi company across reducers.  
 
-- **[IMDB Data Analysis](https://github.com/your-repo-link)**  
-  Python-based exploratory analysis on IMDB dataset, answering key questions on ratings, directors & trends.  
-
-- **[Power BI Dashboards](https://github.com/your-repo-link)**  
-  Interactive dashboards on telecom & finance datasets (RLS, Top-N filters, bookmarks, phone layouts).  
 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Email](mailto:your-email)  
+- [LinkedIn](www.linkedin.com/in/manasagangadhara)  
+- [Email](mailto:manasagangadhara.ds@gmail.com)  
 
 ---
 
