@@ -26,12 +26,12 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
   Built a scalable web app on AWS to manage music subscriptions, leveraging cloud services for storage, deployment, and reliability.
     Demonstrated end-to-end skills in cloud architecture, backend integration, and DevOps practices.
  
-- **[(K-Medoid Clustering with MapReduce)](https://github.com/ManasaG-ds/mapreduce-taxi-analytics.git)**  
+- **[K-Medoid Clustering with MapReduce](https://github.com/ManasaG-ds/mapreduce-taxi-analytics.git)**  
   Implemented PAM algorithm in Hadoop streaming (mapper & reducer in Python), handling large datasets line-by-line.  
 
-- **[Taxi Trips Analysis with MapReduce](https://github.com/your-repo-link)**  
-  Built multi-stage Hadoop pipeline (join, count, sort) to analyze trips per taxi company across reducers.  
-
+- **[NLP Chatbot with Flask](https://github.com/your-repo-link)**  
+  Developed a Flask-based web application that integrates NLP models to process and expand user queries in real time.
+  Implemented semantic mapping, query expansion, and sentiment detection, showcasing skills in   Python, Flask, and applied NLP for user-friendly interfaces.
 
 ---
 
