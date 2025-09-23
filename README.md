@@ -20,7 +20,7 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 ---
 
 ## 📌 Highlighted Projects
-🌟 Here are some of my academic & portfolio projects:  
+🌟 Here are some of my portfolio projects:  
 
 - **[Music Subscriptions App on AWS](https://github.com/ManasaG-ds/Cloud-Music-Subscription-AWS.git)**  
   Built a scalable web app on AWS to manage music subscriptions, leveraging cloud services for storage, deployment, and reliability.
@@ -29,7 +29,7 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 - **[K-Medoid Clustering with MapReduce](https://github.com/ManasaG-ds/mapreduce-taxi-analytics.git)**  
   Implemented PAM algorithm in Hadoop streaming (mapper & reducer in Python), handling large datasets line-by-line.  
 
-- **[NLP Chatbot with Flask](https://github.com/your-repo-link)**  
+- **[NLP Chatbot with Flask](https://github.com/ManasaG-ds/NLP-Job-Recommendation-System.git)**  
   Developed a Flask-based web application that integrates NLP models to process and expand user queries in real time.
   Implemented semantic mapping, query expansion, and sentiment detection, showcasing skills in   Python, Flask, and applied NLP for user-friendly interfaces.
 
