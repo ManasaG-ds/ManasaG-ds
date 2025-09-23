@@ -22,11 +22,11 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 ## 📌 Highlighted Projects
 🌟 Here are some of my academic & portfolio projects:  
 
-- **[Music Subscriptions App on AWS](https://github.com/your-repo-link)**  
+- **[Music Subscriptions App on AWS](https://github.com/ManasaG-ds/Cloud-Music-Subscription-AWS.git)**  
   Built a scalable web app on AWS to manage music subscriptions, leveraging cloud services for storage, deployment, and reliability.
     Demonstrated end-to-end skills in cloud architecture, backend integration, and DevOps practices.
  
-- **[K-Medoid Clustering with MapReduce](https://github.com/your-repo-link)**  
+- **[(K-Medoid Clustering with MapReduce)](https://github.com/ManasaG-ds/mapreduce-taxi-analytics.git)**  
   Implemented PAM algorithm in Hadoop streaming (mapper & reducer in Python), handling large datasets line-by-line.  
 
 - **[Taxi Trips Analysis with MapReduce](https://github.com/your-repo-link)**  
