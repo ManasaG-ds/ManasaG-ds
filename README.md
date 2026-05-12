@@ -3,8 +3,9 @@
 🎓 **Master of Data Science Graduate** from RMIT University | 💻 **Ex-SQL Database Administrator (7+ yrs)** | 🌏 Based in Melbourne, Australia  
 
 I’m passionate about building data-driven solutions that connect **database reliability** with **AI & analytics innovation**.  
-Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA** — bringing the best of both worlds:  
-- **Database expertise (SQL Server, Azure SQL, migrations, performance tuning)**  
+Currently exploring roles across **SQL DBA, Data Analysis, and Data Engineering** — bringing together:  
+- **Database expertise (SQL Server, Azure SQL, migrations, performance tuning)**
+- **Database Automation & DevOps (Terraform-based Infrastructure as Code, Flyway database migrations, Azure DevOps CI/CD pipelines)**
 - **Modern Data & AI (Python, Power BI, NLP, Hadoop, RAG systems)**  
 
 ---
