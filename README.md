@@ -10,7 +10,8 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 ---
 
 ## 🔑 Skills & Tools
-- **Databases**: SQL Server, Azure SQL, Managed Instance, Always On AG  
+- **Databases**: SQL Server, Azure SQL, Managed Instance, Always On AG
+- **Database Automation**: Terraform, Flyway, Azure DevOps CI/CD pipelines  
 - **Data Engineering**: Hadoop, MapReduce, Spark (academic), ETL/SSIS  
 - **Programming**: Python (pandas, numpy, matplotlib), PowerShell, T-SQL  
 - **Visualization**: Power BI, dashboards, RLS, storytelling with data  
@@ -21,6 +22,11 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 
 ## 📌 Highlighted Projects
 🌟 Here are some of my portfolio projects:  
+
+- **[Azure SQL CI/CD Pipeline (Terraform + Flyway + Azure DevOps)]()**
+  Built an end-to-end CI/CD pipeline for Azure SQL Database using Terraform for infrastructure provisioning and Flyway for database schema versioning.
+  Automated the full deployment lifecycle using Azure DevOps pipelines with multi-stage execution (Validate, Plan, Apply, and Migration).
+  Demonstrates real-world DevOps practices including Infrastructure as Code, database automation, and CI/CD pipeline design.
 
 - **[Music Subscriptions App on AWS](https://github.com/ManasaG-ds/Cloud-Music-Subscription-AWS.git)**  
   Built a scalable web app on AWS to manage music subscriptions, leveraging cloud services for storage, deployment, and reliability.
