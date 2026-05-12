@@ -23,7 +23,7 @@ Currently exploring roles across **Data Engineering, Data Analysis, and SQL DBA*
 ## 📌 Highlighted Projects
 🌟 Here are some of my portfolio projects:  
 
-- **[Azure SQL CI/CD Pipeline (Terraform + Flyway + Azure DevOps)]()**
+- **[Azure SQL CI/CD Pipeline (Terraform + Flyway + Azure DevOps)](https://github.com/ManasaG-ds/azure-sql-ci-cd-project.git)**
   Built an end-to-end CI/CD pipeline for Azure SQL Database using Terraform for infrastructure provisioning and Flyway for database schema versioning.
   Automated the full deployment lifecycle using Azure DevOps pipelines with multi-stage execution (Validate, Plan, Apply, and Migration).
   Demonstrates real-world DevOps practices including Infrastructure as Code, database automation, and CI/CD pipeline design.
