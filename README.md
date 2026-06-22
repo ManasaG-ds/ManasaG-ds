@@ -4,6 +4,7 @@
 💡 AI/LLM Systems | Data Architecture | Cloud Infrastructure
 
 🌏 Based in Melbourne, Australia | Full Working Rights
+
 I'm a technology professional with 5+ years of experience across two complementary specialisations, **enterprise data infrastructure and AI/LLM system design**. I bring the rare combination of knowing how to build reliable data foundations and how to architect intelligent systems on top of them.
 Currently open to roles in **AI/LLM Architecture, Data Science, and Database Administration/Engineering**, across industries where data reliability and AI innovation intersect.
 
