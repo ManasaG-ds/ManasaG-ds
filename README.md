@@ -1,12 +1,24 @@
-# Hi, I'm Manasa 👋  
+# **Hi, I'm Manasa** 👋
+🎓 Master of Data Science Graduate — RMIT University
 
-🎓 **Master of Data Science Graduate** from RMIT University | 💻 **Ex-SQL Database Administrator (7+ yrs)** | 🌏 Based in Melbourne, Australia  
+💡 AI/LLM Systems | Data Architecture | Cloud Infrastructure
 
-I’m passionate about building data-driven solutions that connect **database reliability** with **AI & analytics innovation**.  
-Currently exploring roles across **SQL DBA, Data Analysis, and Data Engineering** — bringing together:  
-- **Database expertise (SQL Server, Azure SQL, migrations, performance tuning)**
-- **Database Automation & DevOps (Terraform-based Infrastructure as Code, Flyway database migrations, Azure DevOps CI/CD pipelines)**
-- **Modern Data & AI (Python, Power BI, NLP, Hadoop, RAG systems)**  
+🌏 Based in Melbourne, Australia | Full Working Rights
+I'm a technology professional with 5+ years of experience across two complementary specialisations, **enterprise data infrastructure and AI/LLM system design**. I bring the rare combination of knowing how to build reliable data foundations and how to architect intelligent systems on top of them.
+Currently open to roles in **AI/LLM Architecture, Data Science, and Database Administration/Engineering**, across industries where data reliability and AI innovation intersect.
+
+## 🔧 What I Do
+**AI & LLM Systems**
+RAG frameworks, LLM safety & governance (LlamaGuard), prompt engineering, NLP pipelines, model evaluation (RAGAS), sentiment analysis
+
+**Data Architecture & Database Engineering**
+SQL Server, Azure SQL, Azure SQL Managed Instance, Always On Availability Groups, schema versioning (Flyway), data governance frameworks, performance tuning
+
+**Cloud & DevOps**
+Microsoft Azure, AWS (EC2, S3, DynamoDB, Lambda, API Gateway), Terraform (IaC), Azure DevOps CI/CD pipelines
+
+**Programming & Analytics**
+Python, SQL, R, Flask, PowerShell, T-SQL, Power BI, Pandas, NumPy
 
 ---
 
