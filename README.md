@@ -22,17 +22,6 @@ Python, SQL, R, Flask, PowerShell, T-SQL, Power BI, Pandas, NumPy
 
 ---
 
-## 🔑 Skills & Tools
-- **Databases**: SQL Server, Azure SQL, Managed Instance, Always On AG
-- **Database Automation**: Terraform, Flyway, Azure DevOps CI/CD pipelines  
-- **Data Engineering**: Hadoop, MapReduce, Spark (academic), ETL/SSIS  
-- **Programming**: Python (pandas, numpy, matplotlib), PowerShell, T-SQL  
-- **Visualization**: Power BI, dashboards, RLS, storytelling with data  
-- **AI/ML**: NLP (transformers, embeddings, query expansion), Scikit-learn  
-- **Cloud**: Microsoft Azure, ARM templates  
-
----
-
 ## 📌 Highlighted Projects
 🌟 Here are some of my portfolio projects:  
 
